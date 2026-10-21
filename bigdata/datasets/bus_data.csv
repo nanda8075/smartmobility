@@ -1,0 +1,6 @@
+bus_id,bus_type,operator,route,from_stop,to_stop,scheduled_time,actual_time
+B001,Ordinary,KSRTC,Aluva-Kakkanad,Aluva,Kakkanad,08:00,08:07
+B002,Private,ABC Travels,Aluva-Kakkanad,Aluva,Kakkanad,08:15,08:19
+B003,Private,XYZ Bus,Aluva-Kochi,Aluva,Edappally,08:30,08:35
+B004,Ordinary,KSRTC,Kollam-Kochi,Kollam,Ernakulam,09:00,09:12
+B005,Private,ABC Travels,Aluva-Kochi,Aluva,Edappally,09:15,09:20

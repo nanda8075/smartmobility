@@ -1,0 +1,6 @@
+parking_id,location,type,capacity,occupied,timestamp
+P001,Kochi Airport,Car,500,320,2026-08-31 18:00
+P002,Kochi Airport,Two Wheeler,200,120,2026-08-31 18:00
+P003,Lulu Mall,Car,800,650,2026-08-31 18:00
+P004,Lulu Mall,Two Wheeler,400,250,2026-08-31 18:00
+P005,Ernakulam Railway Station,Car,300,210,2026-08-31 18:00
